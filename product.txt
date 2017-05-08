@@ -12,3 +12,4 @@ cake
 computer
 mouse
 keyboard
+bucket
