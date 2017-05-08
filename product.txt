@@ -1,0 +1,14 @@
+shoe
+sandal
+flipper
+belli
+shirt
+tshirt
+jeans
+lower
+barfi
+ladoo
+cake
+computer
+mouse
+keyboard
